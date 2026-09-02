@@ -1,3 +1,11 @@
+vyatta-interfaces-bonding (0.57) unstable; urgency=medium
+
+  [ Charles (Chas) Williams ]
+  * Use configuration state for members
+  * Remove unused code
+
+ -- i-danos dev <dev@i-danos.dev>  Thu, 03 Sep 2026 06:47:35 +0800
+
 vyatta-interfaces-bonding (0.56) unstable; urgency=medium
 
   [ kalaivani vinothkumar ]
